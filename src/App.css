@@ -1,0 +1,52 @@
+ *{
+   font-family: sans-serif;
+   font-weight: bold;
+ }
+   
+   
+ div{
+  background-color: black;
+  height: 900px;
+
+  
+ }
+
+input {
+
+  font-size: 20px;
+  
+}
+
+
+table{
+
+  width: 300px;
+  height: 300px;
+  border: 2px solid;
+  text-align: center;
+  border-collapse: collapse;
+  font-size: large;
+  
+}
+tbody{
+  background-color: rgb(228, 235, 135);
+  height: 20px;
+}
+button{
+  height:40px;
+  width: 90px;
+}
+
+thead{
+  background-color: rgb(0, 72, 255);
+  color: white;
+}
+
+button:hover{
+  background-color: black;
+  color: white;
+}
+
+
+
+
